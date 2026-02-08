@@ -1,4 +1,3 @@
-<img width="1197" height="805" alt="pandas python in jupyter" src="https://github.com/user-attachments/assets/83fabb4c-9040-4cd3-9e8f-272b86085050" />
 ## Database For Analytics
 ## A Restaurant Database Project, Mongo Database 44661
 # Vashti Gambol
